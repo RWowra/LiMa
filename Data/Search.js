@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/Resources/Manual/DataProtection_COPY.htm'],s:['+49'],p:[['+49',24],['identical',2],['state',7]]});

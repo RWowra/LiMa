@@ -1,0 +1,1 @@
+define({numchunks:1,prefix:'Index_Chunk',terms:[{t:'Borrowing a license',c:0,$:1},{t:'contact information',c:0,$:1},{t:'ETAS',c:0,$:0},{t:'Expiry Warning',c:0,$:1},{t:'Get License Info',c:0,$:1},{t:'Grace Mode',c:0,$:1},{t:'License File',c:0,$:1},{t:'License Types',c:0,$:1},{t:'Obtain License Info',c:0,$:1},{t:'Returning a borrowed license',c:0,$:1}]});
